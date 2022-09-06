@@ -283,7 +283,7 @@ subprojects {
 
             maven {
                 name = "GitHubPackages"
-                url = uri("https://maven.pkg.github.com/props-sh/props")
+                url = uri("https://maven.pkg.github.com/MihaiBojin/java-props-v2")
                 credentials {
                     username =
                         project.findProperty("gpr.username") as String? ?: System.getenv("USERNAME")

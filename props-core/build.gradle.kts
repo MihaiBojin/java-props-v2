@@ -38,9 +38,9 @@ publishing {
                     }
                 }
                 scm {
-                    connection.set("scm:git:ssh://git@github.com:props-sh/props.git")
-                    developerConnection.set("scm:git:ssh://git@github.com:props-sh/props.git")
-                    url.set("https://github.com/props-sh/props")
+                    connection.set("scm:git:ssh://git@github.com:MihaiBojin/java-props-v2.git")
+                    developerConnection.set("scm:git:ssh://git@github.com:MihaiBojin/java-props-v2.git")
+                    url.set("https://github.com/MihaiBojin/java-props-v2")
                 }
             }
         }
