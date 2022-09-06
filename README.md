@@ -5,6 +5,9 @@
 [![codecov](https://codecov.io/gh/props-sh/props/branch/main/graph/badge.svg?token=RMUOVHFHKG)](https://codecov.io/gh/props-sh/props)
 [![javadoc](https://javadoc.io/badge2/sh.props/props-core/javadoc.svg)](https://javadoc.io/doc/sh.props/props-core)
 
+## >>> This project is now archived. No further work is planned. <<<
+
+
 This library manages properties and secrets from multiple sources, giving users a unified API for
 loading type safe system, environment, classpath and file based properties while also deciding which
 source takes precedence and how often the values should be refreshed.
